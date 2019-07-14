@@ -1,0 +1,339 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --web-view-ids: Web_1920___1;
+}
+#Web_1920___1 * {
+    margin: 0;
+    padding: 0;
+}
+#Web_1920___1 {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    margin: 0;
+    margin-top: -100px;
+    margin-left:-50px;
+    padding: 0;
+    opacity: 1;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#ConversationArea {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+    stroke: rgb(254, 242, 172);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 5 10;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.ConversationArea{
+    position: absolute;
+    overflow: visible;
+    width: 704px;
+    height: 561px;
+    left: 403px;
+    top: 218px;
+}
+
+
+#UserArea{
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+    stroke: rgb(254, 242, 172);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 5 10;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.UserArea{
+    position: absolute;
+    overflow: visible;
+    width: 346px;
+    height: 430px;
+    left: 60px;
+    top: 411px;
+    
+}
+#Potato_Man_Chat {
+    opacity: 1;
+    filter: drop-shadow(0px 3px 6px rgba(234, 13, 13, 0.161));
+    position: absolute;
+    left: 495px;
+    top: 109px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 521px;
+    height: 79px;
+    text-align: left;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 70px;
+    color: rgba(253,216,11,0.341);
+}
+#Your_chat_with_Mr__Potato_star {
+    opacity: 1;
+    position: absolute;
+    left: 427px;
+    top: 240px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 558px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(245,0,47,0.341);
+}
+#ConversationTextArea {
+    opacity: 1;
+    fill: rgba(255,255,255,1);
+}
+.ConversationTextArea {
+    position: absolute;
+    overflow: visible;
+    width: 654px;
+    height: 455px;
+    left: 427px;
+    top: 299px;
+}
+.TextArea{
+    position: absolute;
+    overflow: visible;
+    width: 654px;
+    height: 455px;
+    left: 427px;
+    top: 299px;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+#imgButton{
+    position:absolute;
+    left: 100px;
+    top: 380px;
+    overflow:auto;
+    z-index: 2;
+}
+
+#list{
+    position:absolute;
+    z-index: 2;
+    left: 100px;
+    top: 150px;
+
+}
+
+#testImg{
+    position:absolute;
+    z-index: 2;
+    left: 100px;
+    top: 150px;
+}
+
+#displayTextClient{
+
+    position: absolute;
+    overflow: auto;
+    width: 654px;
+    height: 455px;
+    left: 427px;
+    top: 299px;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(245,0,47,0.341);
+}
+
+#displayUserList{
+    position: absolute;
+    overflow: auto;
+    width: 260px;
+    height: 360px;
+    left: 80px;
+    top: 430px;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(245,0,47,0.341);
+}
+
+#TypeYourTextArea {
+    opacity: 1;
+    fill: rgba(244,83,132,1);
+    stroke: rgb(254, 242, 172);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 1;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.TypeYourTextArea {
+    position: absolute;
+    overflow: visible;
+    width: 567px;
+    height: 46px;
+    left: 403px;
+    top: 795px;
+}
+
+.TypeYourText{
+    position: absolute;
+    overflow: visible;
+    width: 567px;
+    height: 46px;
+    left: 403px;
+    top: 800px;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    
+    
+}
+#SendButtonArea {
+    opacity: 1;
+    fill: rgba(244,83,132,1);
+    stroke: rgb(254, 242, 172);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-dasharray: 1 1;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.SendButtonArea {
+    position: absolute;
+    overflow: visible;
+    width: 123px;
+    height: 46px;
+    left: 984px;
+    top: 795px;
+}
+
+.SendButton{
+    position: absolute;
+    left: 1005px;
+    top: 794px;
+    width: 74px;
+    height: 46px;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(254,242,172,1);
+    background-color:transparent;
+    border-color:transparent;
+}
+
+.Type_your_text_here_ {
+    opacity: 1;
+    position: absolute;
+    left: 403px;
+    top: 795px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 567px;
+    height: 46px;
+    white-space: nowrap;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Seravek;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 35px;
+    color: #fef2ac;
+    background-color: #f45384;
+    border-color:transparent;
+    
+    
+}
+
+.Type_your_text_here_::-webkit-input-placeholder {
+    color: rgba(254,242,172,1);
+    
+}
+
+
+#fries1 {
+    opacity: 1;
+    fill: url(#fries1_A0_Rectangle_7_pattern);
+}
+.fries1 {
+    position: absolute;
+    overflow: visible;
+    width: 346px;
+    height: 430px;
+    left: 1135px;
+    top: 411px;
+    z-index:1;
+}
+.friesTry{
+    position: absolute;
+    overflow: visible;
+    width: 346px;
+    height: 430px;
+    left: 1135px;
+    top: 411px;
+    z-index:1;
+}
+#wholepotato {
+    opacity: 1;
+    fill: url(#wholepotato_A0_Rectangle_9_pattern);
+}
+.wholepotato {
+    position: absolute;
+    overflow: visible;
+    width: 390.5px;
+    height: 390.5px;
+    left: 1107px;
+    top: 21px;
+    z-index:1;
+}
+#wholepotato_A0_Rectangle_10 {
+    opacity: 1;
+    fill: url(#wholepotato_A0_Rectangle_11_pattern);
+}
+.wholepotato_A0_Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 390.5px;
+    height: 390.5px;
+    left: 13px;
+    top: 21px;
+    z-index: 1;
+}
