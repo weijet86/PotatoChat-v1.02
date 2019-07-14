@@ -9,6 +9,7 @@ Instruction
 3) Just click "send" button or "enter" to send a message to server to connect to it. 
 4) List of users will automatically be shown in userlist box.
 5) Click on username to start chat.
+6) Click "Select image file to send" button, browse picture to send through folders in local disc.
 
 Instruction on changing own username
 1) Navigate to javascripts->textClick.js and open textClick.js file.
